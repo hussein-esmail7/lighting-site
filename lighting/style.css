@@ -60,7 +60,9 @@ body {
 .url {
   color: rgb(139, 215, 247)
 }
-
+.url:hover {
+  color: rgb(255, 255, 255)
+}
 
 
 /* Dropdown Button */

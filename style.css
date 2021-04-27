@@ -59,7 +59,7 @@ body {
   color: #f2f2f2; 
 }
 
-.url {
+.url, a:link {
   color: rgb(139, 215, 247)
 }
 
@@ -106,3 +106,7 @@ body {
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+.dead {
+    text-decoration: line-through;
+}

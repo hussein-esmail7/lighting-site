@@ -4,6 +4,7 @@
     --dark-mode-background-color: #222426;
     --dark-mode-text-color: #f2f2f2; 
     --dark-mode-url-color: #8bd7f7;
+    --dark-mode-url-visited: #eaabff;
     --dark-mode-nav-color: #333;
     --dark-mode-nav-links: white;
     --dark-mode-nav-link-hover-bg: #ddd;
@@ -15,6 +16,7 @@
     --light-mode-background-color: white;
     --light-mode-text-color: black;
     --light-mode-url-color: #0000ee;
+    --light-mode-url-visited: #551A8B;
     /* --light-mode-nav-color: TODO; */
     --light-mode-nav-links: black;
     --light-mode-nav-link-hover-bg: black;
@@ -74,6 +76,10 @@ footer {
         /* Normal URLs */
         color: var(--dark-mode-url-color);
     }
+    a:visited {
+        /* Visited URLs */
+        color: var(--dark-mode-url-visited);
+    }
     .topnav {
         /* Navigation bar */
         background-color: var(--dark-mode-nav-color);
@@ -108,6 +114,10 @@ footer {
     a:link {
         /* Normal URLs */
         color: var(--light-mode-url-color);
+    }
+    a:visited {
+        /* Visited URLs */
+        color: var(--light-mode-url-visited);
     }
     .topnav {
         /* Navigation bar */

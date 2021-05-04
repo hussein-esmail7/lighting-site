@@ -1,7 +1,20 @@
+/*
+@media (prefers-color-scheme:dark) {
+    :root {
+        --color-bg: #141414;
 
+
+    }
+}
+@media (prefers-color-scheme:light) {
+    :root {
+
+    }
+}
+*/
 :root {
     /* Global Variables */
-    --dark-mode-background-color: #222426;
+    --dark-mode-background-color: #222426; 
     --dark-mode-text-color: #f2f2f2; 
     --dark-mode-url-color: #8bd7f7;
     --dark-mode-url-visited: #eaabff;

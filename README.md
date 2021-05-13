@@ -1,13 +1,5 @@
 # My website
-This is repository is used to host https://hussein-esmail7.github.io/site/index.html and all its pages. 
+This repository used to host https://hussein-esmail7.github.io/site but has now moved to https://husseinesmail.xyz
 
-# Site Map
-- [Home](https://hussein-esmail7.github.io/site/index.html)
-- [About](https://hussein-esmail7.github.io/site/about.html)
-- [Lighting](https://hussein-esmail7.github.io/site/lighting/index.html)
-  - [Home](https://hussein-esmail7.github.io/site/lighting/index.html)
-  - [More Info](https://hussein-esmail7.github.io/site/lighting/moreinfo.html)
-  - [Downloads](https://hussein-esmail7.github.io/site/lighting/downloads.html)
-- [What I'm Working On](https://hussein-esmail7.github.io/site/projects.html)
-- [Contact](https://hussein-esmail7.github.io/site/contact.html)
-  
+Any previous URL from https://hussein-esmail7.github.io/site will now redirect to the equivalent URL at https://husseinesmail.xyz, but be aware that https://hussein-esmail7.github.io/site will not stay up forever.
+
